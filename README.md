@@ -1,2 +1,2 @@
-# Meus-Projetos
-um pouco do aprendizado do dia a dia
+# Projeto sistema bancário
+Sistema criado baseado no projeto proposto pelo curso da DIO.
